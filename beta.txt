@@ -1,3 +1,5 @@
 hello world!
 
 made changes
+
+merging example
